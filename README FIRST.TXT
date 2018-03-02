@@ -10,7 +10,8 @@ Command : python3 FindG.py atau python FindG.py
 Program tersebut akan mengoutputkan tabel csv yang berisi nilai g dan akurasi yang didapat per iterasi pada folder outputs dan namafile : findingG.csv dan menampilkan grafik antara nilai g dan akurasi
 4. Untuk melakukan Pengujian terhadap data test, dapat menjalankan file SolveDataTest.py
 Command : python3 SolveDataTest.py atau python SolveDataTest.py
-Lalu akan diminta untuk memasukkan nilai g yang akan digunakan, jika tidak menginputkan atau input error, maka akan menggunakan nilai g default yaitu hasil dari pencarian g yang paling optimum.
+Lalu akan diminta untuk memasukkan nilai g yang akan digunakan, jika tidak menginputkan atau input error, maka akan menggunakan nilai g default yaitu hasil dari pencarian g yang paling optimum dan menyimpannya pada outputs/prediksi.txt
+
 
 Terima kasih, dan selamat menggunakan.
 
